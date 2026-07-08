@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/78274923?v=4" width="140" style="border-radius:50%"/>
   <h1>Olá, eu sou o Mikael! 👨‍💻</h1>
-  <p><em>Analista de Dados em formação | Unindo a visão das Ciências Contábeis à tecnologia</em></p>
-  <p>Focado em construir uma base sólida em análise de dados e automação. Tenho um cronograma de estudos estruturado em blocos progressivos — dos fundamentos de Python e SQL até a ciência de dados aplicada a negócios e finanças.</p>
+  <p><em>Analista de Dados em formação | Unindo Ciências Contábeis à Tecnologia</em></p>
+  <p>Estudante de Ciências Contábeis construindo uma base sólida em análise de dados e automação financeira. Meu foco é resolver problemas reais de negócios utilizando as melhores práticas de Python e SQL.</p>
 
   <a href="https://www.linkedin.com/in/mikael-lucas-997621203">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +12,7 @@
 
 <br>
 
-### 🧰 Linguagens e Tecnologias
+### 🧰 Linguagens e Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
@@ -25,18 +25,30 @@
 
 <br>
 
-### 📊 Estatísticas
-<div align="center">
-  <!-- Estes cards atualizam automaticamente com base na sua atividade -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikaelxf&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelxf&layout=compact&theme=transparent&hide_border=true" height="150"/>
-</div>
+### 🎯 Meu Foco Atual
+Em vez de focar apenas em código, busco entender os dados. Atualmente, meus estudos estão concentrados em:
+- **Análise de Dados:** Limpeza, manipulação e extração de insights utilizando `Pandas`.
+- **Bancos de Dados:** Consultas estruturadas em `SQL` para geração de relatórios gerenciais.
+- **Automação Contábil/Financeira:** Aplicação de lógica de programação para otimizar rotinas financeiras.
 
 <br>
 
-### 📌 Projeto em Destaque
-<div align="center">
-  <a href="https://github.com/Mikaelxf/CONSULTA-DE-DADOS-COM-PANDAS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mikaelxf&repo=CONSULTA-DE-DADOS-COM-PANDAS&theme=transparent&hide_border=true" />
-  </a>
-</div>
+### 📌 Projetos em Destaque
+
+<!-- Tabela estática: Não quebra, funciona no celular e fica super profissional -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mikaelxf/CONSULTA-DE-DADOS-COM-PANDAS">📊 Consulta de Dados com Pandas</a></h3>
+      <p>Projeto prático demonstrando manipulação, limpeza e consultas de datasets. Simula um cenário de negócios onde dados brutos são transformados em informações úteis para tomada de decisão.</p>
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="#">🚧 Próximos Passos...</a></h3>
+      <p>Trabalhando em novos projetos que integram análises financeiras e bancos de dados SQL.</p>
+    </td>
+  </tr>
+</table>
