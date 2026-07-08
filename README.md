@@ -27,7 +27,7 @@
   <br><br>
 
   <!-- Botão de Download do Currículo -->
-<a href="curriculo.pdf" title="Baixar Currículo" target="_blank">
+<a href="https://github.com/Mikaelxf/Mikaelxf/raw/main/curriculo.pdf" title="Baixar Currículo" target="_blank">
   <img src="https://img.shields.io/badge/-📄_Download_CV-252525?style=for-the-badge&logoColor=white" alt="Download CV"/>
 </a>
 </div>
