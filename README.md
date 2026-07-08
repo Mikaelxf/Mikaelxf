@@ -27,9 +27,9 @@
   <br><br>
 
   <!-- Botão de Download do Currículo -->
-  <a href="#" title="Baixar Currículo">
-    <img src="https://img.shields.io/badge/-📄_Download_CV-252525?style=for-the-badge&logoColor=white" alt="Download CV"/>
-  </a>
+<a href="curriculo.pdf" title="Baixar Currículo" target="_blank">
+  <img src="https://img.shields.io/badge/-📄_Download_CV-252525?style=for-the-badge&logoColor=white" alt="Download CV"/>
+</a>
 </div>
 
 <br><br>
