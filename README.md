@@ -30,7 +30,6 @@
   <a href="#" title="Baixar Currículo">
     <img src="https://img.shields.io/badge/-📄_Download_CV-252525?style=for-the-badge&logoColor=white" alt="Download CV"/>
   </a>
-  <p><i>*Substitua o link '#' acima pelo link do seu PDF hospedado*</i></p>
 </div>
 
 <br><br>
