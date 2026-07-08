@@ -1,7 +1,12 @@
 <div align="center">
+  <!-- Contador de Visualizações -->
+  <img src="https://komarev.com/ghpvc/?username=Mikaelxf&color=0A66C2&style=flat-square&label=VISUALIZACOES" alt="Contador de Visitas"/>
+  <br><br>
+
   <img src="https://avatars.githubusercontent.com/u/78274923?v=4" width="150" style="border-radius:50%; border: 4px solid #0A66C2;" alt="Foto de Mikael"/>
   
-  <h1>Olá, eu sou o Mikael! 👋</h1>
+  <!-- Título com GIF animado -->
+  <h1>Olá, eu sou o Mikael! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35px" alt="Aceno Animado"></h1>
   <h3>Analista de Dados | Híbrido entre Negócios e Tecnologia</h3>
   
   <p>
@@ -10,7 +15,7 @@
 
   <br>
 
-  <!-- Links de Contato com indicador de saída (↗️) para boa UX -->
+  <!-- Links de Contato -->
   <a href="https://www.linkedin.com/in/mikael-lucas-997621203" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn_↗️-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,8 +28,6 @@
 <br><br>
 
 ## 🛠️ Tecnologias e Ferramentas
-
-Para facilitar a leitura, separei meu ecossistema de trabalho nas seguintes áreas:
 
 <table>
   <tr>
@@ -58,9 +61,19 @@ Acredito que dominar o código é apenas metade do caminho; a outra metade é en
 
 <br>
 
-## 📌 Projetos em Destaque
+## 🚀 Além dos Dados (Explorações & Interesses)
 
-Nesta seção, você encontra aplicações práticas do meu aprendizado.
+Fora do ecossistema de dados, mantenho uma rotina de estudos contínua e gosto de explorar a fundo como os sistemas funcionam "por baixo dos panos":
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ambientes_Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Segurança_da_Informação-2d2d2d?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Otimização_de_Sistemas-008000?style=flat-square&logo=windows&logoColor=white" />
+</div>
+
+<br>
+
+## 📌 Projetos em Destaque
 
 <table>
   <tr>
@@ -82,5 +95,8 @@ Nesta seção, você encontra aplicações práticas do meu aprendizado.
 <br>
 
 <div align="center">
-  <p><b>📫 Aberto a conexões, projetos e trocas de conhecimento. Sinta-se à vontade para me chamar no LinkedIn!</b></p>
+  <blockquote>
+    <i>"A simplicidade é o último grau de sofisticação."</i>
+  </blockquote>
+  <p><b>📫 Aberto a conexões, projetos e trocas de conhecimento. Sinta-se à vontade para me chamar!</b></p>
 </div>
