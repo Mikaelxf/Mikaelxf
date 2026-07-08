@@ -15,7 +15,7 @@
 
   <br>
 
-  <!-- Links de Contato -->
+  <!-- Links de Contato e Localização -->
   <a href="https://www.linkedin.com/in/mikael-lucas-997621203" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn_↗️-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,6 +23,14 @@
     <img src="https://img.shields.io/badge/-Instagram_↗️-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <img src="https://img.shields.io/badge/-Natal,%20RN-2d2d2d?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
+  
+  <br><br>
+
+  <!-- Botão de Download do Currículo -->
+  <a href="#" title="Baixar Currículo">
+    <img src="https://img.shields.io/badge/-📄_Download_CV-252525?style=for-the-badge&logoColor=white" alt="Download CV"/>
+  </a>
+  <p><i>*Substitua o link '#' acima pelo link do seu PDF hospedado*</i></p>
 </div>
 
 <br><br>
@@ -52,23 +60,45 @@
 
 <br>
 
+## 💼 Competências & Visão de Negócios
+
+A vivência em rotinas administrativas e o forte foco em planejamento pessoal e financeiro me permitem criar soluções que vão além do código:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Rotinas_Administrativas-2d2d2d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Planejamento_&_Disciplina-2d2d2d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Matemática_Financeira-2d2d2d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco_em_Resolução_de_Problemas-2d2d2d?style=flat-square" />
+</div>
+
+<br>
+
 ## 🎯 Por que Contabilidade + Dados?
 
-Acredito que dominar o código é apenas metade do caminho; a outra metade é entender o negócio. Atualmente, aplico meus estudos para:
+Acredito que dominar a tecnologia é apenas metade do caminho; a outra metade é entender as engrenagens da empresa. Atualmente, aplico meus estudos para:
 * **Limpeza e Estruturação:** Transformar dados brutos em bases confiáveis usando `Pandas`.
 * **Geração de Relatórios:** Extrair métricas gerenciais e financeiras precisas com `SQL`.
-* **Automação de Rotinas:** Reduzir o trabalho manual em processos contábeis/financeiros repetitivos.
+* **Automação de Rotinas:** Reduzir o trabalho manual em processos repetitivos.
 
 <br>
 
 ## 🚀 Além dos Dados (Explorações & Interesses)
 
-Fora do ecossistema de dados, mantenho uma rotina de estudos contínua e gosto de explorar a fundo como os sistemas funcionam "por baixo dos panos":
+Fora do ecossistema de dados, mantenho uma rotina de estudos contínua, sempre curioso para entender como os sistemas operam em níveis mais profundos, explorando arquiteturas, otimização de performance e segurança:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ambientes_Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Segurança_da_Informação-2d2d2d?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Otimização_de_Sistemas-008000?style=flat-square&logo=windows&logoColor=white" />
+</div>
+
+<br>
+
+## 🌍 Idiomas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Português-Nativo-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Inglês-Leitura_Técnica-E4405F?style=flat-square" /> 
 </div>
 
 <br>
