@@ -1,11 +1,9 @@
 <div align="center">
-  <!-- Contador de Visualizações -->
   <img src="https://komarev.com/ghpvc/?username=Mikaelxf&color=0A66C2&style=flat-square&label=VISUALIZACOES" alt="Contador de Visitas"/>
   <br><br>
 
   <img src="https://avatars.githubusercontent.com/u/78274923?v=4" width="150" style="border-radius:50%; border: 4px solid #0A66C2;" alt="Foto de Mikael"/>
   
-  <!-- Título com GIF animado -->
   <h1>Olá, eu sou o Mikael! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35px" alt="Aceno Animado"></h1>
   <h3>Analista de Dados | Híbrido entre Negócios e Tecnologia</h3>
   
@@ -15,7 +13,6 @@
 
   <br>
 
-  <!-- Links de Contato e Localização -->
   <a href="https://www.linkedin.com/in/mikael-lucas-997621203" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn_↗️-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -26,8 +23,7 @@
   
   <br><br>
 
-  <!-- Botão de Download do Currículo -->
-<a href="https://github.com/Mikaelxf/Mikaelxf/raw/main/curriculo.pdf" title="Baixar Currículo" target="_blank">
+  <a href="https://github.com/Mikaelxf/Mikaelxf/raw/main/curriculo.pdf" title="Baixar Currículo" target="_blank">
   <img src="https://img.shields.io/badge/-📄_Download_CV-252525?style=for-the-badge&logoColor=white" alt="Download CV"/>
 </a>
 </div>
@@ -107,7 +103,7 @@ Fora do ecossistema de dados, mantenho uma rotina de estudos contínua, sempre c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Mikaelxf/CONSULTA-DE-DADOS-COM-PANDAS">📊 Consulta de Dados com Pandas</a></h3>
+      <h3><a href="https://github.com/Mikaelxf/portfolio-analise-dados">📊 Portfólio de Análise de Dados</a></h3>
       <p>Projeto prático focando em Engenharia e Análise de Dados. Simula a ingestão de uma base de negócios, aplicação de filtros avançados, limpeza de inconsistências e agregações para gerar insights estratégicos.</p>
       <br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -115,8 +111,12 @@ Fora do ecossistema de dados, mantenho uma rotina de estudos contínua, sempre c
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="#">🚧 Em Construção...</a></h3>
-      <p>Estou desenvolvendo novos projetos que unem automação financeira e modelagem de banco de dados SQL. Em breve, novidades por aqui!</p>
+      <h3><a href="https://github.com/Mikaelxf/logica-e-automacao-python">⚙️ Lógica e Automação com Python</a></h3>
+      <p>Laboratório de desenvolvimento focado em ferramentas interativas e à prova de falhas. Destaque para o <b>Sistema Blindado de Fechamento de Caixa</b>, que utiliza tratamento de exceções (<i>try/except</i>) para evitar falhas humanas na operação financeira.</p>
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automação-008000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Lógica-2d2d2d?style=flat-square" />
     </td>
   </tr>
 </table>
